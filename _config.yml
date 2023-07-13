@@ -9,7 +9,7 @@ name: Openlake
 description: Opensource Community from IIT Bhilai
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: http://www.pixelstalk.net/wp-content/uploads/2016/06/HD-images-of-nature-download.jpg
+avatar: https://media.licdn.com/dms/image/C560BAQGvFa1sCnWo3Q/company-logo_200_200/0/1623527059768?e=2147483647&v=beta&t=QToke2-NjT5F-bys19q8zrgiZ7Eb-5CHQGNRP9o-GMY
 
 #
 # Flags below are optional
@@ -21,9 +21,9 @@ footer-links:
   email:
   facebook:
   flickr:
-  github: barryclark/jekyll-now
+  github: OpenLake
   instagram:
-  linkedin:
+  linkedin: OpenLake IIT Bhilai
   pinterest:
   rss: # just type anything here for a working RSS icon
   twitter: jekyllrb
