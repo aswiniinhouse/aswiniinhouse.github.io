@@ -9,7 +9,7 @@ name: Openlake
 description: Opensource Community from IIT Bhilai
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: http://www.pixelstalk.net/wp-content/uploads/2016/06/HD-images-of-nature-download.jpg
+avatar: https://media.licdn.com/dms/image/C560BAQGvFa1sCnWo3Q/company-logo_200_200/0/1623527059768?e=2147483647&v=beta&t=QToke2-NjT5F-bys19q8zrgiZ7Eb-5CHQGNRP9o-GMY
 
 #
 # Flags below are optional
@@ -21,12 +21,12 @@ footer-links:
   email:
   facebook:
   flickr:
-  github: barryclark/jekyll-now
-  instagram:
-  linkedin:
+  github: OpenLake
+  instagram: openlake_iitbhilai
+  linkedin: OpenLake IIT Bhilai
   pinterest:
   rss: # just type anything here for a working RSS icon
-  twitter: jekyllrb
+  twitter: 
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
@@ -41,7 +41,7 @@ google_analytics:
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url:
+url: https://aswiniinhouse.github.io
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
